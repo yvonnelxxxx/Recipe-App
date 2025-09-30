@@ -79,27 +79,20 @@ http://localhost:8080/Recipe-App/
 
 ## Usage
 
-Log in or register
-
-Add new recipes
-
-Browse by category or search
-
-View ingredients and steps
-
-Use meal plan feature to assemble meals
+- Log in or register
+- Add new recipes
+- Browse by category or search
+- View ingredients and steps
+- Use meal plan feature to assemble meals
 
 ---
 
 ## Contributing
 
-Fork the repo
-
-Create a feature branch
-
-Commit & push changes
-
-Open a pull request
+- Fork the repo
+- Create a feature branch
+- Commit & push changes
+- Open a pull request
 
 ---
 
