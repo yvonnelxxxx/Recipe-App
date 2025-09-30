@@ -15,7 +15,7 @@ public class ComputerScienceIA {
         try{
             Class.forName("com.mysql.cj.jdbc.Driver");
             System.out.println("Success Loading");
-            return DriverManager.getConnection("jdbc:mysql://localhost:3306/IA_database?user=root", "root", "060724lxy");
+            return DriverManager.getConnection("jdbc:mysql://localhost:3306/IA_database?user=root", "root", "*********");
         } catch(Exception e){
             e.printStackTrace();
             return null;
