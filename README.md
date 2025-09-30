@@ -74,6 +74,7 @@ Open in browser (example):
 
 http://localhost:8080/Recipe-App/
 
+```
 ---
 
 ## Usage
